@@ -1,0 +1,5 @@
+
+gnuplot> set samples 5000plot sin(x) + sin(3*x) + sin(5*x)
+                         ^
+         line 0: ',' expected
+
